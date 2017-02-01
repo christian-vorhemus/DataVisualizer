@@ -1,4 +1,4 @@
- # INQData Visualization Example
+#INQStats API Data Visualization Example
 
 This example shows how to use the INQStats API provided at [inqstatsapi.inqubu.com](http://inqstatsapi.inqubu.com). To get started, request an API key [here](http://blog.inqubu.com/inqstats-open-api-published-to-get-demographic-data). 
 
