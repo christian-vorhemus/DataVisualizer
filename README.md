@@ -2,6 +2,8 @@
 
 This example shows how to use the INQStats API provided at [inqstatsapi.inqubu.com](http://inqstatsapi.inqubu.com). To get started, request an API key [here](http://blog.inqubu.com/inqstats-open-api-published-to-get-demographic-data). 
 
+<img src="http://inqstats.inqubu.com/data_visualizer_inqstats.png">
+
 The API is accessible via REST interface. The following parameters can be passed in the request:
 <p></p>
 <table border="1" style="width:600px;">
