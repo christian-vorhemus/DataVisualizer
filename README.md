@@ -54,6 +54,11 @@ Subsequently, a list of all available data keys is given:
 <td>Worldbank</td>
 </tr>
 <tr>
+<td>capital_name</td>
+<td>Returns the name of the capital of the given countries. Use the language parameter (lang) to return the capital in one of the supported languages.</td>
+<td>Wikipedia</td>
+</tr>
+<tr>
 <td>co2_emissions</td>
 <td>Returns the CO2 emissions in metric tons per person per year.</td>
 <td>Global Carbon Atlas</td>
