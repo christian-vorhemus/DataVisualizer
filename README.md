@@ -104,6 +104,11 @@ Subsequently, a list of all available data keys is given:
 <td>Worldbank</td>
 </tr>
 <tr>
+<td>economic_sectors</td>
+<td>Returns the fraction of the three economic sectors (agriculture = primary, industry = secondary, service = tertiary) of the total economic performance.</td>
+<td>Fischer Weltalmanach</td>
+</tr>
+<tr>
 <td>education_expenditure</td>
 <td>Returns the public expenditure on education (in % of the GDP for a country).</td>
 <td>Worldbank</td>
