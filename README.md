@@ -335,9 +335,12 @@ Subsequently, a list of all available data keys is given:
 </tr>
 </table>
 <p></p>
-If there is no value to display, either "null" or "N/A" in string format is returned.<br>
+If there is no value to display, either "null" or "N/A" in string format is returned.<p></p>
 In the following, a sample request is given. This will return the population of the last five years of the United States and Great Britain (note, that you have to replace the api_key parameter with your own key):
 <p></p>
-<div style="height:auto;width:100%;background-color:#F5F5F5;font-family:'Courier New';font-size:11px;border:1px solid grey;padding:5px;text-align:left;">
+
+```
 GET http://inqstatsapi.inqubu.com?api_key=ADDYOURKEYHERE&data=population&countries=us,gb
-</div>
+```
+
+Note: Inqubu, the owner of the database, does not guarantee the accuracy of the data and does not take over any warranty. 
