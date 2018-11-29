@@ -13,7 +13,7 @@ The API is accessible via REST interface. The following parameters can be passed
 <td><b>Cardinality</b></td></tr>
 <tr>
 <td>api_key</td>
-<td>This is a mandatory value. It must be provided with every request. Please fill in the form above to get your personal API key.</td>
+<td>This is a mandatory value. It must be provided with every request. Please fill in the form as described above to get your personal API key.</td>
 <td>1</td>
 </tr>
 <tr>
