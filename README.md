@@ -340,7 +340,7 @@ In the following, a sample request is given. This will return the population of 
 <p></p>
 
 ```
-GET http://inqstatsapi.inqubu.com?api_key=ADDYOURKEYHERE&data=population&countries=us,gb
+GET https://inqstatsapi.inqubu.com?api_key=ADDYOURKEYHERE&data=population&countries=us,gb
 ```
 
 Note: Inqubu, the owner of the database, does not guarantee the accuracy of the data and does not take over any warranty. 
