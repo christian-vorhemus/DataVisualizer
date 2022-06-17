@@ -1,6 +1,6 @@
 # INQStats API Data Visualization Example
 
-This example shows how to use the INQStats API provided at [inqstatsapi.inqubu.com](http://inqstatsapi.inqubu.com). To get started, request an API key [here](http://blog.inqubu.com/inqstats-open-api-published-to-get-demographic-data). Then, download data_visualizer_demo.html and replace "ADDKEYHERE" in line 312 with your own value.
+This example shows how to use the INQStats API provided at [inqstatsapi.inqubu.com](http://inqstatsapi.inqubu.com). To get started, you can use the API key `2b03edec5cfff212`. Then, download data_visualizer_demo.html and replace "ADDKEYHERE" in line 312 with your own value.
 
 <img src="http://inqstats.inqubu.com/data_visualizer_inqstats.png">
 
