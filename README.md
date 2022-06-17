@@ -1,8 +1,8 @@
 # INQStats API Data Visualization Example
 
-This example shows how to use the INQStats API provided at [inqstatsapi.inqubu.com](http://inqstatsapi.inqubu.com). To get started, you can use the API key `2b03edec5cfff212`. Then, download data_visualizer_demo.html and replace "ADDKEYHERE" in line 312 with your own value.
+This example shows how to use the INQStats API provided at [inqstatsapi.inqubu.com](http://inqstatsapi.inqubu.com) which powers [inqstats.inqubu.com](https://inqstats.inqubu.com). To get started, you can use the API key `2b03edec5cfff212`. Then, download data_visualizer_demo.html and replace "ADDKEYHERE" in line 312 with your own value.
 
-<img src="http://inqstats.inqubu.com/data_visualizer_inqstats.png">
+<img src="https://inqstats.inqubu.com/data_visualizer_inqstats.png">
 
 The API is accessible via REST interface. The following parameters can be passed in the request:
 <p></p>
